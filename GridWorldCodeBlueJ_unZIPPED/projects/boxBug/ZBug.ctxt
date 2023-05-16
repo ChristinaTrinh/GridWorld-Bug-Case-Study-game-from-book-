@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=length
+comment0.target=ZBug(int)
+comment0.text=\r\n\ Constructs\ a\ Zbug\ that\ traces\ a\ Z\ pattern\ in\ which\ each\ segment\r\n\ of\ the\ Z\ has\ the\ given\ length\r\n\ When\ the\ Z\ is\ drawn,\ the\ ZBug\ stops.\r\n\ @param\ length\ the\ segment\ length\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

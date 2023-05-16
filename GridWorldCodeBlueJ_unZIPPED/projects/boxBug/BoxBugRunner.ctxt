@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=class\ BoxBugRunner
+comment0.text=\nThis\ class\ runs\ a\ world\ that\ contains\ box\ bugs.\ <br\ />\nThis\ class\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+numComments=2
